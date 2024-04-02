@@ -1,1 +1,1 @@
-# prototype-of-collage-erp
+# collage-erp
